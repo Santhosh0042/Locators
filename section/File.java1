@@ -1,0 +1,10 @@
+package section;
+
+public class File { 
+	public void method() {
+	System.out.println("Hello");
+	syetem.out.println("santhosh");
+	
+	}
+		
+}
